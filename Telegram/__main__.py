@@ -159,13 +159,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://github.com/Godfatherakkii/TGN-ROBOT",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/Superior_Support',
+                                url='https://t.me/GodfatherSupport',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
@@ -173,7 +173,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/Superior_Bots",
+                                url="https://t.me/The_Godfather_Network",
                             ),
                         ],
                     ]
@@ -254,13 +254,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://github.com/Godfatherakkii/TGN-ROBOT",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/Superior_Support',
+                                url='https://t.me/GodfatherSupport',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
@@ -268,7 +268,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/Superior_Bots",
+                                url="https://t.me/The_Godfather_Network",
                             ),
                         ],
                     ]
