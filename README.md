@@ -13,7 +13,7 @@
 Me On Telegram [✨ Anie✨](https://t.me/Anierobot_bot)
 
 ## 🅓🅔🅟🅛🅞🅨
-Fill all The Requirements Before Hosting [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/ITZ-ZAID/Telegram/blob/main/config.ini)
+Fill all The Requirements Before Hosting [ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/AMANTYA1/Telegram/blob/main/config.ini)
 
 To be safe fork this repo and then press deploy button from the forked repo 
 
